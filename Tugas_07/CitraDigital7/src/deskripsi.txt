@@ -1,0 +1,16 @@
+DATA DESKRIPSI BUKU
+
+Buku ID 1
+Pride and Prejudice merupakan novel karya Jane Austen yang menceritakan hubungan Elizabeth Bennet dan Mr. Darcy. Cerita ini menggambarkan kehidupan keluarga, hubungan sosial, dan perbedaan pandangan masyarakat pada masanya.
+
+Buku ID 2
+Frankenstein adalah novel karya Mary Shelley yang menceritakan Victor Frankenstein. Ia melakukan sebuah eksperimen untuk menciptakan makhluk hidup dan kemudian harus menghadapi berbagai akibat dari eksperimen tersebut.
+
+Buku ID 3
+Dracula merupakan novel horor karya Bram Stoker. Ceritanya berkaitan dengan Count Dracula dan sekelompok tokoh yang berusaha menghadapi ancaman vampir yang berasal dari Transylvania.
+
+Buku ID 4
+The Adventures of Sherlock Holmes berisi kumpulan cerita tentang Sherlock Holmes dalam memecahkan berbagai kasus. Holmes menggunakan kemampuan pengamatan, analisis, dan penalaran untuk menemukan solusi dari setiap kasus.
+
+Buku ID 5
+The Great Gatsby merupakan novel karya F. Scott Fitzgerald yang menceritakan kehidupan Jay Gatsby. Cerita berfokus pada impian, kehidupan sosial, cinta, dan keinginan Gatsby untuk mendapatkan kembali masa lalunya.

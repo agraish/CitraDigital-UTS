@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "kategori": "Romance",
+    "penerbit": "T. Egerton",
+    "bahasa": "English"
+  },
+  {
+    "id": 2,
+    "kategori": "Gothic Fiction",
+    "penerbit": "Lackington, Hughes, Harding, Mavor & Jones",
+    "bahasa": "English"
+  },
+  {
+    "id": 3,
+    "kategori": "Horror",
+    "penerbit": "Archibald Constable and Company",
+    "bahasa": "English"
+  },
+  {
+    "id": 4,
+    "kategori": "Detective Fiction",
+    "penerbit": "George Newnes",
+    "bahasa": "English"
+  },
+  {
+    "id": 5,
+    "kategori": "Novel",
+    "penerbit": "Charles Scribner's Sons",
+    "bahasa": "English"
+  }
+]
